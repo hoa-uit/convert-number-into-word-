@@ -1,6 +1,9 @@
 # convert-number-into-word-
 CE119-Lab02/IT012-Lab04
 
+full source here: https://github.com/hoa-uit/convert-number-into-word-/blob/main/CONVERT%20NUMBER%20INTO%20WORD
+
+
 # code
 
 .data
